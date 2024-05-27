@@ -11,6 +11,7 @@ Inspired by desktop widgets, a portable browser with the cheshire cat page on st
 and a script managing the window written in ahk 2.0.
 
 ;---------------------------------------------------------------------------
+
 the main project is the Cheshire Cat AI created by Piero Savastano
 
 Cheshire Cat AI is a production-ready AI framework 
@@ -20,6 +21,7 @@ website: https://cheshirecat.ai/
 github:  https://github.com/cheshire-cat-ai
 
 ;---------------------------------------------------------------------------
+
 file and Folder Description:
 
 the cheshire cat is on the desktop.ahk - The main script file.
@@ -29,6 +31,7 @@ the cheshire cat is on the desktop - icon 256 rect.ico - The icon file for the s
 browser_Folder - a folder to store the portable browser files.
 
 ;---------------------------------------------------------------------------
+
 the prerequisites are:
 
 - download and install ahk 2.0 - https://www.autohotkey.com/
@@ -42,6 +45,7 @@ the prerequisites are:
 Note: This project do not requires familiarity with ahk 2.0 scripting language.
 
 ;---------------------------------------------------------------------------
+
 The author of this project is Giulio76.
 
 github: https://github.com/Giulio76
