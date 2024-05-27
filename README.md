@@ -42,6 +42,16 @@ Note: This project do not requires familiarity with ahk 2.0 scripting language.
 
 ;---------------------------------------------------------------------------
 
+at runtime:
+
+[Ctrl] + [Ins]  toggle show-hide window
+
+[F2] cycles between styles
+
+[F3] reset window
+
+
+;---------------------------------------------------------------------------
 The author of this project is Giulio76.
 
 github: https://github.com/Giulio76
