@@ -33,7 +33,9 @@ the prerequisites are:
 
 - download and install ahk 2.0 - https://www.autohotkey.com/
 
-- download and install a portable browser. I recommend "Iron Portable". https://www.srware.net/iron/
+- download and install a portable browser. I recommend "Iron Portable".
+  https://www.srware.net/iron/
+ 
   once you have downloaded the browser, extract it to a dedicated "browser_folder" and change the path in the script at line 28.
   in the browser, you need to set the startup page to http://localhost:1865/admin/.
   
@@ -41,6 +43,7 @@ Note: This project do not requires familiarity with ahk 2.0 scripting language.
 
 ;---------------------------------------------------------------------------
 The author of this project is Giulio76.
+
 github: https://github.com/Giulio76
 
 timestamp: 240527_134557
