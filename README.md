@@ -3,10 +3,6 @@ A widget for the cheshire cat AI on windows desktop.
 
 
 
-Project: the cheshire cat is on the desktop
-
-A widget for the cheshire cat AI on windows desktop.
-
 Inspired by desktop widgets, a portable browser with the cheshire cat page on startup 
 and a script managing the window written in ahk 2.0.
 
