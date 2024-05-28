@@ -2,6 +2,7 @@
 A widget for the cheshire cat AI on windows desktop.
 
 ![the cheshire cat is on the desktop - image 256 rect](https://github.com/Giulio76/the-cheshire-cat-is-on-the-desktop/assets/58274169/af0cece1-434a-40ca-84e8-686e13f408de)
+
 image created with AI (microsoft copilot)
 
 
