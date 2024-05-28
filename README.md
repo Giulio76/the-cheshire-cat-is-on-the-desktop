@@ -5,7 +5,7 @@ A widget for the cheshire cat AI on windows desktop.
 
 
 Inspired by desktop widgets, a portable browser with the cheshire cat page on startup 
-and a script managing the window written in ahk 2.0.
+and a script managing the window written in ahk 2.0. For Windows.
 
 
 
@@ -67,3 +67,26 @@ The author of this project is Giulio76.
 github: https://github.com/Giulio76
 
 timestamp: 240527_134557
+
+
+
+
+
+
+
+![240528_082029](https://github.com/Giulio76/the-cheshire-cat-is-on-the-desktop/assets/58274169/5a682f88-beb0-4e50-a8dc-d343d12fc343)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
