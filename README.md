@@ -1,13 +1,16 @@
 # the-cheshire-cat-is-on-the-desktop
 A widget for the cheshire cat AI on windows desktop.
 
+Inspired by desktop widgets, a portable browser with the cheshire cat page on startup 
+and a script managing the window written in ahk 2.0. For Windows.
+
+
+
 ![the cheshire cat is on the desktop - image 256 rect](https://github.com/Giulio76/the-cheshire-cat-is-on-the-desktop/assets/58274169/af0cece1-434a-40ca-84e8-686e13f408de)
 
 image created with AI (microsoft copilot)
 
 
-Inspired by desktop widgets, a portable browser with the cheshire cat page on startup 
-and a script managing the window written in ahk 2.0. For Windows.
 
 
 
