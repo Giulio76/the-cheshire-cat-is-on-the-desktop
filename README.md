@@ -11,7 +11,7 @@ and a script managing the window written in ahk 2.0. For Windows.
 image created with AI (microsoft copilot)
 
 
-
+_
 
 
 
